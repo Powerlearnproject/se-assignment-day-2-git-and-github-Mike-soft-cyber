@@ -43,7 +43,7 @@ Disadvantages
 - Commits are snapshots of your project.
 
 The steps involved are:
-- Craete your github repository
+- Create your github repository
 - Set up git locally
 - Clone the repository
 - Initialize your git if not cloned
