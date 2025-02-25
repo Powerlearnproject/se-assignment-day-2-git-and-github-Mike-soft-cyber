@@ -72,7 +72,14 @@ Steps
 - Team members review the code and suggest changes
 - Merge the pull request.
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+- Forking refers to creating a copy of someone else's repository in your own github account.
+- Forking copies a repository to your github account while cloning copies a repository to your local machine.
 
+Scenarios when forking is useful
+- When contributing to the source code.
+- If the original repository is deleted.
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
-
+- The importance of issues and project boards on github is to help teams track bugs and manage tasks.
+- They can be used to track bugs through github issues, they manage tasks through project boards, and improve project organization through collaborative teamwork.
+- These tools can enhance collaborative efforts as team members can discuss and track work in one place.
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
