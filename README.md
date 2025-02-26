@@ -83,3 +83,13 @@ Scenarios when forking is useful
 - They can be used to track bugs through github issues, they manage tasks through project boards, and improve project organization through collaborative teamwork.
 - These tools can enhance collaborative efforts as team members can discuss and track work in one place.
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
+
+Challenges
+- Using outdated version to work on
+- Committing vague messages making it hard to track changes
+- Working on the main instead of branching, which can bring bugs
+
+Best Pracices
+- Keep the main stable and use branches to add new features
+- Clearly describe what each commit does.
+- Ensure every change is reviewed before merging
